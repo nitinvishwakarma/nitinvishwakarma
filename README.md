@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Nitin Vishwakarma 👋
 
 ###  Data Analyst |Power BI Developer | DAX | SQL | 5+ Years
