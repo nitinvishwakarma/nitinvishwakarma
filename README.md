@@ -52,6 +52,7 @@
 - Churn drivers: Month-to-month contracts (42.71%) · Fiber optic (41.89%) · New customers (47.44%)
 
 [View Project](https://github.com/nitinvishwakarma/telecom-customer-churn-analysis)
+[![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/nitinvishwakarma/telecom-customer-churn-analysis)
 
 ---
 
