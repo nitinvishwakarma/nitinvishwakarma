@@ -30,6 +30,7 @@
 - Geographic map visuals across North America
 - KPI sparkline cards: **$11.53M sales | $1.34M profit | 11.58% margin**
 
+[View Project](https://github.com/nitinvishwakarma/ecommerce-sales-dashboard)
 ---
 
 ### 🚗 Car Sales Dashboard – USA
@@ -40,29 +41,17 @@
 - Drillthrough reports, cascading filters, dealer region map
 - %GT company-wise trend matrix across 20+ brands
 
+[View Project](https://github.com/nitinvishwakarma/car-sales-dashboard-usa)
 ---
 
-### Telecom Customer Churn Analysis
-**Tools:** MySQL | AWS S3 | AWS RDS | Power BI (Coming Soon)
-
-A complete data analytics pipeline analyzing why telecom customers leave.
-Identified 273 high-risk customers representing $264,058 in yearly revenue at risk.
-
-**Key Findings:**
-- 26.54% overall churn rate — nearly 3x higher than industry standard
-- Month-to-month customers churn 15x more than two-year customers
-- Fiber optic customers churn at 41.89% despite being the premium service
-- New customers in first 12 months churn at 47.44%
+### 📡 Telecom Customer Churn Analysis
+> MySQL · AWS S3 · AWS RDS · Power BI (Coming Soon)
+- Built cloud pipeline storing 7,043 customer records on AWS S3 and AWS RDS
+- Detected hidden data quality issues using HEX() and REPLACE() SQL functions
+- Identified 273 high-risk customers representing **$264,058 yearly revenue at risk**
+- Churn drivers: Month-to-month contracts (42.71%) · Fiber optic (41.89%) · New customers (47.44%)
 
 [View Project](https://github.com/nitinvishwakarma/telecom-customer-churn-analysis)
-
----
-### 📉 Customer Churn Analysis
-> SQL · Power BI
-
-- SQL CTEs & stored procedures to identify churn indicators
-- Multi-dimensional customer demographics analysis
-- Interactive dashboards enabling data-driven retention strategies
 
 ---
 
