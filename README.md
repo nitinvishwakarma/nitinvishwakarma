@@ -31,6 +31,7 @@
 - KPI sparkline cards: **$11.53M sales | $1.34M profit | 11.58% margin**
 
 [View Project](https://github.com/nitinvishwakarma/ecommerce-sales-dashboard-powerbi)
+[![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/nitinvishwakarma/ecommerce-sales-dashboard-powerbi)
 ---
 
 ### 🚗 Car Sales Dashboard – USA
@@ -42,6 +43,7 @@
 - %GT company-wise trend matrix across 20+ brands
 
 [View Project](https://github.com/nitinvishwakarma/car-sales-dashboard-usa-powerbi)
+[![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/nitinvishwakarma/car-sales-dashboard-usa-powerbi)
 ---
 
 ### 📡 Telecom Customer Churn Analysis
