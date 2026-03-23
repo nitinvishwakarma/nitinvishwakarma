@@ -30,7 +30,7 @@
 - Geographic map visuals across North America
 - KPI sparkline cards: **$11.53M sales | $1.34M profit | 11.58% margin**
 
-[View Project](https://github.com/nitinvishwakarma/ecommerce-sales-dashboard)
+[View Project](https://github.com/nitinvishwakarma/ecommerce-sales-dashboard-powerbi)
 ---
 
 ### 🚗 Car Sales Dashboard – USA
@@ -41,7 +41,7 @@
 - Drillthrough reports, cascading filters, dealer region map
 - %GT company-wise trend matrix across 20+ brands
 
-[View Project](https://github.com/nitinvishwakarma/car-sales-dashboard-usa)
+[View Project](https://github.com/nitinvishwakarma/car-sales-dashboard-usa-powerbi)
 ---
 
 ### 📡 Telecom Customer Churn Analysis
