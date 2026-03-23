@@ -30,7 +30,6 @@
 - Geographic map visuals across North America
 - KPI sparkline cards: **$11.53M sales | $1.34M profit | 11.58% margin**
 
-[View Project](https://github.com/nitinvishwakarma/ecommerce-sales-dashboard-powerbi)
 [![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/nitinvishwakarma/ecommerce-sales-dashboard-powerbi)
 ---
 
@@ -42,7 +41,6 @@
 - Drillthrough reports, cascading filters, dealer region map
 - %GT company-wise trend matrix across 20+ brands
 
-[View Project](https://github.com/nitinvishwakarma/car-sales-dashboard-usa-powerbi)
 [![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/nitinvishwakarma/car-sales-dashboard-usa-powerbi)
 ---
 
@@ -53,7 +51,6 @@
 - Identified 273 high-risk customers representing **$264,058 yearly revenue at risk**
 - Churn drivers: Month-to-month contracts (42.71%) · Fiber optic (41.89%) · New customers (47.44%)
 
-[View Project](https://github.com/nitinvishwakarma/telecom-customer-churn-analysis)
 [![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/nitinvishwakarma/telecom-customer-churn-analysis)
 
 ---
