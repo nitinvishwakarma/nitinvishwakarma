@@ -42,6 +42,21 @@
 
 ---
 
+### Telecom Customer Churn Analysis
+**Tools:** MySQL | AWS S3 | AWS RDS | Power BI (Coming Soon)
+
+A complete data analytics pipeline analyzing why telecom customers leave.
+Identified 273 high-risk customers representing $264,058 in yearly revenue at risk.
+
+**Key Findings:**
+- 26.54% overall churn rate — nearly 3x higher than industry standard
+- Month-to-month customers churn 15x more than two-year customers
+- Fiber optic customers churn at 41.89% despite being the premium service
+- New customers in first 12 months churn at 47.44%
+
+[View Project](https://github.com/nitinvishwakarma/telecom-customer-churn-analysis)
+
+---
 ### 📉 Customer Churn Analysis
 > SQL · Power BI
 
