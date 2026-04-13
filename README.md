@@ -1,6 +1,9 @@
 # Hi, I'm Nitin Vishwakarma 👋
 
-###  Data Analyst |Power BI Developer | DAX | SQL | 5+ Years
+### Data Analyst | SQL & Power BI Developer | Ex-Swiggy Operations | 5+ Years
+Building automated analytics solutions: RFM • Market Basket • Pareto Analysis • more 
+📍 Hyderabad | Open to Work
+
 
 📍 Hyderabad, India
 📧 nitinv0041@gmail.com
