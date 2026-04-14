@@ -33,7 +33,7 @@ Building automated analytics solutions: RFM • Market Basket • Pareto Analysi
 - Engineered **Market Basket Analysis** via strict self-joins to identify cross-selling opportunities
 - Automated **Pareto (80/20) Analysis** to track cumulative revenue and top-performing inventory
 
-[![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/nitinvishwakarma/E-Commerce-Retail-Analytics-Engine)
+[![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/nitinvishwakarma/E-Commerce-Retail-Analytics-Engine-Project-Alpha)
 ---
 
 ### 🛒 E-Commerce Sales Dashboard
