@@ -44,7 +44,7 @@ Building automated analytics solutions: RFM • Market Basket • Pareto Analysi
 - Geographic map visuals across North America
 - KPI sparkline cards: **$11.53M sales | $1.34M profit | 11.58% margin**
 
-[![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/nitinvishwakarma/ecommerce-sales-dashboard-powerbi)
+[![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/nitinvishwakarma/ecommerce-sales-dashboard-powerbi-)
 ---
 
 ### 🚗 Car Sales Dashboard – USA
