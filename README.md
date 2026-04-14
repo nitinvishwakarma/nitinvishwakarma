@@ -25,6 +25,17 @@ Building automated analytics solutions: RFM • Market Basket • Pareto Analysi
 
 ## 📊 Featured Projects
 
+### ⚙️ E-Commerce Retail Analytics Engine (Project Alpha)
+> Microsoft SQL Server · T-SQL · Power BI
+
+- Built a 5-table normalized relational database for end-to-end data pipeline processing
+- Designed T-SQL views for **RFM Customer Segmentation** using NTILE window functions
+- Engineered **Market Basket Analysis** via strict self-joins to identify cross-selling opportunities
+- Automated **Pareto (80/20) Analysis** to track cumulative revenue and top-performing inventory
+
+[![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/nitinvishwakarma/E-Commerce-Retail-Analytics-Engine)
+---
+
 ### 🛒 E-Commerce Sales Dashboard
 > Power BI · DAX · SQL
 
@@ -55,14 +66,13 @@ Building automated analytics solutions: RFM • Market Basket • Pareto Analysi
 - Churn drivers: Month-to-month contracts (42.71%) · Fiber optic (41.89%) · New customers (47.44%)
 
 [![View Project](https://img.shields.io/badge/View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/nitinvishwakarma/telecom-customer-churn-analysis)
-
 ---
 
 ## 💼 Work Experience
 
 **Freelance Power BI Developer** *(Apr 2021 – Present)*
 Building end-to-end BI solutions for clients across e-commerce,
-automotive, and ride-sharing domains.
+automotive and ride-sharing domains.
 
 **Lead Manager – MP & CG | Swiggy** *(Feb 2019 – Jan 2021)*
 Managed vendor operations across 30+ cities with Power BI
