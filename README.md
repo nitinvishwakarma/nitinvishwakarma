@@ -9,6 +9,7 @@ Building automated analytics solutions: RFM • Market Basket • Pareto Analysi
 📧 nitinv0041@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/nitin-vishwakarma-30322195/)
 💼 [Portfolio](https://www.freelancer.com/u/nitinv0041)
+ -  [naukri.com](https://www.naukri.com/mnjuser/profile?id=&altresid)
 
 ---
 
