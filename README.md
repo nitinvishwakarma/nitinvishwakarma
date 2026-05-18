@@ -20,6 +20,7 @@ Building automated analytics solutions: RFM • Market Basket • Pareto Analysi
 | **BI & Reporting** | Power BI, DAX, SSRS, Power Query |
 | **Data Modelling** | Star Schema, Dimensional Modelling, RLS |
 | **Database** | SQL Server, T-SQL, CTEs, Stored Procedures |
+| **Cloud & Analytics (Learning)** | Google Cloud Platform (GCP), BigQuery, Google Analytics, AI/ML fundamentals |
 | **Other** | Advanced Excel, Data Cleaning & QC |
 
 ---
@@ -88,8 +89,10 @@ KPI dashboards for senior leadership reporting.
 ---
 
 ## 📈 Currently Learning
+- Google Cloud Platform (GCP) fundamentals
+- BigQuery for data warehousing and SQL analytics
+- Google Analytics for digital performance insights
+- AI/ML fundamentals for analytics use cases
 - SSRS Advanced Reporting
 - Row-Level Security (RLS) in Power BI
-- Azure Data Services
-```
 
